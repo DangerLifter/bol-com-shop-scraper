@@ -1,0 +1,18 @@
+{
+  "name": "bol-com-shop-scraper",
+  "version": "1.0.0",
+  "description": "Simple scrapper of bol.com shops",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Dmitry Pismennyy",
+    "email": "dalfter2006@gmail.com",
+  },
+  "dependencies": {
+    "node-fetch": "^3.0.0",
+    "node-html-parser": "^5.0.0"
+  }
+}
