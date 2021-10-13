@@ -9,7 +9,7 @@
   },
   "author": {
     "name": "Dmitry Pismennyy",
-    "email": "dalfter2006@gmail.com",
+    "email": "dalfter2006@gmail.com"
   },
   "dependencies": {
     "node-fetch": "^3.0.0",
